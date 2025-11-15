@@ -1,3 +1,6 @@
+nombre josue garcia rodriguez
+codigo 192525
+
 # Analizador de Secuencias
 
 **Segundo Parcial — Programación I (Java)**  
